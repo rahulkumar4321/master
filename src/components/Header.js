@@ -9,6 +9,7 @@ function Header() {
       </div>
       <h1 className="title">Header</h1>
       <h2>my name is Rahul Kumar</h2>
+      <h2>java developer</h2>
     </header>
   );
 }
